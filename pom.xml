@@ -11,6 +11,7 @@
   <modules>
     <module>test111</module>
     <module>test222</module>
+    <module>test333</module>
   </modules>
 
   <name>testtest</name>
